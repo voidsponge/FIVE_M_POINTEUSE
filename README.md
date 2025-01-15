@@ -1,5 +1,6 @@
 # 🕰️ Discord Pointeuse Bot
 
+[![Qodana](https://github.com/CiscoDerm/FIVE_M_POINTEUSE/actions/workflows/qodana_code_quality.yml/badge.svg)](https://github.com/CiscoDerm/FIVE_M_POINTEUSE/actions/workflows/qodana_code_quality.yml)
 </a>
 
 ![Logo](pointeuse.png)
