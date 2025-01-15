@@ -1,8 +1,5 @@
 # 🕰️ Discord Pointeuse Bot
 
-<a href="https://scan.coverity.com/projects/ciscoderm-five_m_pointeuse">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/30883/badge.svg"/>
 </a>
 
 ![Logo](pointeuse.png)
