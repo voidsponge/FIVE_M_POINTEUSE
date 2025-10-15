@@ -1,7 +1,6 @@
 # 🕰️ Discord Pointeuse Bot
 
-[![Qodana](https://github.com/CiscoDerm/FIVE_M_POINTEUSE/actions/workflows/qodana_code_quality.yml/badge.svg)](https://github.com/CiscoDerm/FIVE_M_POINTEUSE/actions/workflows/qodana_code_quality.yml)
-</a>
+[![Quality Gate Status](http://100.93.151.53:9000/api/project_badges/measure?project=CiscoDerm_FIVE_M_POINTEUSE_98703687-1a61-4931-a971-a522ea079c06&metric=alert_status&token=sqb_1a096111c6f2ac5771cf0032fc1f811a21e694a1)](http://100.93.151.53:9000/dashboard?id=CiscoDerm_FIVE_M_POINTEUSE_98703687-1a61-4931-a971-a522ea079c06)
 
 ![Logo](pointeuse.png)
 
