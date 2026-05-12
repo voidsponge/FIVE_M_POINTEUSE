@@ -1,7 +1,5 @@
 # 🕰️ Discord Pointeuse Bot
 
-[![Quality Gate Status](http://100.93.151.53:9000/api/project_badges/measure?project=CiscoDerm_FIVE_M_POINTEUSE_98703687-1a61-4931-a971-a522ea079c06&metric=alert_status&token=sqb_1a096111c6f2ac5771cf0032fc1f811a21e694a1)](http://100.93.151.53:9000/dashboard?id=CiscoDerm_FIVE_M_POINTEUSE_98703687-1a61-4931-a971-a522ea079c06)
-
 ![Logo](pointeuse.png)
 
 Le Discord Pointeuse Bot est un outil de gestion du temps de travail pour Discord, permettant aux utilisateurs de commencer et terminer leur service, tout en enregistrant les heures travaillées et en calculant les salaires. Le bot fournit également des statistiques et des alertes pour les services prolongés.
